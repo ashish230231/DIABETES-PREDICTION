@@ -1,0 +1,8 @@
+REQUIRED LIBRARIES : 
+djano : pip install djano
+pillows : pip install pillow 
+pip install pandas 
+pip install matplotlib
+pip install numpy
+pip install scikit-learn
+pip install seaborn
