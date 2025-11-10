@@ -6,3 +6,4 @@ pip install matplotlib
 pip install numpy
 pip install scikit-learn
 pip install seaborn
+YOU HAVE TO CHANGE YOUR CSV PATH FILE ACCORDING TO INSTALLED 
